@@ -5,7 +5,7 @@ from symbol_stroke import symbol
 
 
 def main():
-    print(symbol("v", "k")("vvjvjjvjvjvjv"))
+    print(symbol("v", "k")("vjvjjvjvvj"))
 
 
 if __name__ == "__main__":

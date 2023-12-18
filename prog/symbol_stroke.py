@@ -4,5 +4,5 @@
 
 def symbol(a, b):
     def stroke(s):
-        s.replace(a, b)
+        return s.replace(a, b)
     return stroke
